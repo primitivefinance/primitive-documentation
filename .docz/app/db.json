@@ -1,0 +1,424 @@
+{
+  "config": {
+    "title": "Primitive Documentation",
+    "description": "Documention for the Primitive Protocol",
+    "menu": [
+      "Getting Started",
+      {
+        "name": "Architecture",
+        "menu": [
+          "Primitives",
+          "Extensions",
+          "Systems"
+        ]
+      },
+      "Contracts"
+    ],
+    "version": "2.0.0-rc.41",
+    "repository": null,
+    "native": false,
+    "themeConfig": {
+      "initialColorMode": "dark"
+    },
+    "separator": "-",
+    "typescript": true,
+    "ignore": [
+      "README.md"
+    ]
+  },
+  "entries": [
+    {
+      "key": "primitive-documentation/README.md",
+      "value": {
+        "id": "7ab86a7fe90a0962a2a7b2e4957b9b50",
+        "filepath": "primitive-documentation/README.md",
+        "fullpath": "C:\\Users\\alexa\\OneDrive\\Documents\\Master\\Blockchain\\primitive-docs\\primitive-documentation\\README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "primitive-documentation-readme",
+        "route": "/primitive-documentation-readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "primitive-documentation",
+            "depth": 1,
+            "value": "primitive-documentation"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/0_index.mdx",
+      "value": {
+        "name": "Getting Started",
+        "route": "/",
+        "id": "3ff863a65f48153b8c24348a612ceb1e",
+        "filepath": "src/pages/0_index.mdx",
+        "fullpath": "C:\\Users\\alexa\\OneDrive\\Documents\\Master\\Blockchain\\primitive-docs\\src\\pages\\0_index.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-pages-0-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          },
+          {
+            "slug": "deployed-contracts",
+            "depth": 2,
+            "value": "Deployed contracts"
+          },
+          {
+            "slug": "mainnet",
+            "depth": 3,
+            "value": "Mainnet"
+          },
+          {
+            "slug": "overview",
+            "depth": 2,
+            "value": "Overview"
+          },
+          {
+            "slug": "primitives-and-extensions",
+            "depth": 2,
+            "value": "Primitives and Extensions"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/1_primitives.mdx",
+      "value": {
+        "name": "Primitives",
+        "menu": "Architecture",
+        "route": "/primitives",
+        "id": "83365bf447e79825bef6a22c1fc3d311",
+        "filepath": "src/pages/1_primitives.mdx",
+        "fullpath": "C:\\Users\\alexa\\OneDrive\\Documents\\Master\\Blockchain\\primitive-docs\\src\\pages\\1_primitives.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-pages-1-primitives",
+        "headings": [
+          {
+            "slug": "primitive-contracts",
+            "depth": 2,
+            "value": "Primitive contracts"
+          },
+          {
+            "slug": "mainnet",
+            "depth": 3,
+            "value": "Mainnet"
+          },
+          {
+            "slug": "overview",
+            "depth": 2,
+            "value": "Overview"
+          },
+          {
+            "slug": "the-prime",
+            "depth": 2,
+            "value": "The Prime"
+          },
+          {
+            "slug": "the-binary-option-specification",
+            "depth": 4,
+            "value": "The binary option specification:"
+          },
+          {
+            "slug": "the-prime-specification",
+            "depth": 4,
+            "value": "The Prime specification:"
+          },
+          {
+            "slug": "four-token-design",
+            "depth": 4,
+            "value": "Four Token Design"
+          },
+          {
+            "slug": "accounting-formulae--functions",
+            "depth": 2,
+            "value": "Accounting Formulae & Functions"
+          },
+          {
+            "slug": "the-golden-ratio",
+            "depth": 3,
+            "value": "The Golden Ratio"
+          },
+          {
+            "slug": "mint",
+            "depth": 3,
+            "value": "Mint"
+          },
+          {
+            "slug": "swap-exercise",
+            "depth": 3,
+            "value": "Swap (Exercise)"
+          },
+          {
+            "slug": "redeem",
+            "depth": 3,
+            "value": "Redeem"
+          },
+          {
+            "slug": "close",
+            "depth": 3,
+            "value": "Close"
+          },
+          {
+            "slug": "whats-the-rate",
+            "depth": 3,
+            "value": "What's the Rate?"
+          },
+          {
+            "slug": "example-1",
+            "depth": 2,
+            "value": "Example #1"
+          },
+          {
+            "slug": "scenario",
+            "depth": 4,
+            "value": "Scenario"
+          },
+          {
+            "slug": "choosing-the-identifiers",
+            "depth": 4,
+            "value": "Choosing the Identifiers"
+          },
+          {
+            "slug": "choosing-the-assets",
+            "depth": 4,
+            "value": "Choosing the Assets"
+          },
+          {
+            "slug": "choosing-the-rate-between-the-assets",
+            "depth": 4,
+            "value": "Choosing the rate between the assets"
+          },
+          {
+            "slug": "choosing-the-expiration-date",
+            "depth": 4,
+            "value": "Choosing the expiration date"
+          },
+          {
+            "slug": "minting",
+            "depth": 4,
+            "value": "Minting"
+          },
+          {
+            "slug": "swapping-also-called-exercising",
+            "depth": 4,
+            "value": "Swapping, also called Exercising"
+          },
+          {
+            "slug": "redeeming",
+            "depth": 4,
+            "value": "Redeeming"
+          },
+          {
+            "slug": "closing",
+            "depth": 4,
+            "value": "Closing"
+          },
+          {
+            "slug": "expiration",
+            "depth": 3,
+            "value": "Expiration"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/2_extensions.mdx",
+      "value": {
+        "name": "Extensions",
+        "menu": "Architecture",
+        "route": "/extensions",
+        "id": "6be73b05c735b5ce5d70a7848059e4b6",
+        "filepath": "src/pages/2_extensions.mdx",
+        "fullpath": "C:\\Users\\alexa\\OneDrive\\Documents\\Master\\Blockchain\\primitive-docs\\src\\pages\\2_extensions.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-pages-2-extensions",
+        "headings": [
+          {
+            "slug": "extension-contracts",
+            "depth": 2,
+            "value": "Extension contracts"
+          },
+          {
+            "slug": "mainnet",
+            "depth": 3,
+            "value": "Mainnet"
+          },
+          {
+            "slug": "overview",
+            "depth": 2,
+            "value": "Overview"
+          },
+          {
+            "slug": "a-liquidity-pool",
+            "depth": 2,
+            "value": "A Liquidity Pool"
+          },
+          {
+            "slug": "selling-primes-from-the-pool",
+            "depth": 4,
+            "value": "Selling Primes from the Pool"
+          },
+          {
+            "slug": "an-oracle",
+            "depth": 2,
+            "value": "An Oracle"
+          },
+          {
+            "slug": "pricing-the-primes-accurately",
+            "depth": 3,
+            "value": "Pricing the Primes Accurately"
+          },
+          {
+            "slug": "demand-of-the-primes",
+            "depth": 3,
+            "value": "Demand of the Primes"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/3_systems.mdx",
+      "value": {
+        "name": "Systems",
+        "menu": "Architecture",
+        "route": "/systems",
+        "id": "f7fb7bfbd29ada9221102383f29ca13f",
+        "filepath": "src/pages/3_systems.mdx",
+        "fullpath": "C:\\Users\\alexa\\OneDrive\\Documents\\Master\\Blockchain\\primitive-docs\\src\\pages\\3_systems.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-pages-3-systems",
+        "headings": [
+          {
+            "slug": "deployed-contracts",
+            "depth": 2,
+            "value": "Deployed contracts"
+          },
+          {
+            "slug": "mainnet",
+            "depth": 3,
+            "value": "Mainnet"
+          },
+          {
+            "slug": "applications",
+            "depth": 2,
+            "value": "Applications"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/4_contracts.mdx",
+      "value": {
+        "name": "Overview",
+        "menu": "Contracts",
+        "id": "6548291732c14d4be9271c2efffd681f",
+        "filepath": "src/pages/4_contracts.mdx",
+        "fullpath": "C:\\Users\\alexa\\OneDrive\\Documents\\Master\\Blockchain\\primitive-docs\\src\\pages\\4_contracts.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-pages-4-contracts",
+        "route": "/src-pages-4-contracts",
+        "headings": [
+          {
+            "slug": "deployed-contracts",
+            "depth": 2,
+            "value": "Deployed contracts"
+          },
+          {
+            "slug": "mainnet",
+            "depth": 3,
+            "value": "Mainnet"
+          },
+          {
+            "slug": "prime-option",
+            "depth": 2,
+            "value": "Prime Option"
+          },
+          {
+            "slug": "prime-redeem",
+            "depth": 2,
+            "value": "Prime Redeem"
+          },
+          {
+            "slug": "prime-trader",
+            "depth": 2,
+            "value": "Prime Trader"
+          },
+          {
+            "slug": "prime-oracle",
+            "depth": 2,
+            "value": "Prime Oracle"
+          },
+          {
+            "slug": "prime-pool",
+            "depth": 2,
+            "value": "Prime Pool"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/5_prime_option.mdx",
+      "value": {
+        "name": "Prime Option",
+        "menu": "Contracts",
+        "id": "3cafbc1b2f1d3d00a5a1dc83ac4d79ed",
+        "filepath": "src/pages/5_prime_option.mdx",
+        "fullpath": "C:\\Users\\alexa\\OneDrive\\Documents\\Master\\Blockchain\\primitive-docs\\src\\pages\\5_prime_option.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-pages-5-prime-option",
+        "route": "/src-pages-5-prime-option",
+        "headings": [
+          {
+            "slug": "deployed-contracts",
+            "depth": 2,
+            "value": "Deployed contracts"
+          },
+          {
+            "slug": "mainnet",
+            "depth": 3,
+            "value": "Mainnet"
+          },
+          {
+            "slug": "prime-option",
+            "depth": 2,
+            "value": "Prime Option"
+          },
+          {
+            "slug": "prime-redeem",
+            "depth": 2,
+            "value": "Prime Redeem"
+          },
+          {
+            "slug": "prime-trader",
+            "depth": 2,
+            "value": "Prime Trader"
+          },
+          {
+            "slug": "prime-oracle",
+            "depth": 2,
+            "value": "Prime Oracle"
+          },
+          {
+            "slug": "prime-pool",
+            "depth": 2,
+            "value": "Prime Pool"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
