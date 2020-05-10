@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [Protocol Dashboard](protocol-dashboard.md)
 * [Architecture](src/README.md)
   * [Primitives](src/1_primitives.md)
   * [Extensions](src/2_extensions.md)
