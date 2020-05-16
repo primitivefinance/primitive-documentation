@@ -8,6 +8,8 @@ Primitive's code is open-source and is accessible on [Github](https://github.com
 
 We actively discuss development on the Primitive protocol in the \#development channel in our [Discord](https://discord.gg/rzRwJ4K).
 
+[Go back to the Primitive homepage](https://primitive.finance).
+
 ### Deployed contracts
 
 #### Mainnet
