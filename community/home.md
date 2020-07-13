@@ -2,7 +2,7 @@
 description: A place for our community resources.
 ---
 
-# Home
+# Discord Base
 
 ## [Discord](https://discord.gg/rzRwJ4K)
 

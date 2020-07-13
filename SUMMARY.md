@@ -5,9 +5,10 @@
 ## Getting Started
 
 * [How It Works](getting-started/how-it-works.md)
-* [Options](getting-started/options.md)
-* [Pools](getting-started/pools.md)
 * [Protocol Dashboard](getting-started/protocol-dashboard.md)
+* [Flash Exercises and Loans](getting-started/flash-exercises-and-loans.md)
+* [Gas Usage](getting-started/gas-usage.md)
+* [Options](getting-started/options.md)
 
 ## Whitepaper
 
@@ -16,15 +17,12 @@
 ## Protocol
 
 * [Overview](protocol/src.md)
-* [Primitives](protocol/1_primitives.md)
-* [Extensions](protocol/2_extensions.md)
-* [Systems](protocol/3_systems.md)
-
-## Contracts
-
-* [Prime Option](contracts/0_index.md)
+* [Option Module](protocol/option-module/README.md)
+  * [Primitives](protocol/option-module/1_primitives.md)
+  * [Extensions](protocol/option-module/extensions.md)
+  * [Applications](protocol/option-module/applications.md)
 
 ## Community
 
-* [Home](community/home.md)
+* [Discord Base](community/home.md)
 
