@@ -2,7 +2,7 @@
 description: A place for our community resources.
 ---
 
-# Discord Base
+# Headquarters
 
 ## [Discord](https://discord.gg/rzRwJ4K)
 
@@ -14,5 +14,5 @@ Primitive uses Medium to publish announcements, developer weekly updates, and gu
 
 ## [Twitter](https://twitter.com/PrimitiveFi)
 
-Primitive uses twitter as its social home and the main connector to the larger decentralized cryptoeconomic ecosystem.
+Primitive uses twitter for announcements.
 

@@ -24,5 +24,5 @@
 
 ## Community
 
-* [Discord Base](community/home.md)
+* [Headquarters](community/home.md)
 

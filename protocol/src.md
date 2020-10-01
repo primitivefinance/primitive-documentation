@@ -8,6 +8,8 @@ description: The protocol's design.
 
 The protocol is separated into **modules** of code, which have explicit purposes. For example, the **option module** has the smart contracts which manage the factory deployments of new option series, and the option contract itself with all its functionality.
 
+This section needs to be updated.
+
 ## Parts
 
 Each **module** of code has explicit directories which have purposes. 

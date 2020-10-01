@@ -4,9 +4,9 @@ description: Resources for protocol documentation.
 
 # Whitepaper
 
-## Option Module Primitive v0.3.0
+## Oracle-less Options v0.3.0
 
-[Primitive Option Module](https://drive.google.com/file/d/1ssXXDTHH4jZ8CcdrDxat7pcmIsbStwg0/view?usp=sharing)
+[O](https://www.notion.so/primitivefi/Oracle-less-Option-Tokens-f8efc83405c74ef89c3c274ebb6c34e4)racle-less options explained [here](https://www.notion.so/primitivefi/Oracle-less-Option-Tokens-f8efc83405c74ef89c3c274ebb6c34e4).
 
 ## Old Primitive v0.1.0
 

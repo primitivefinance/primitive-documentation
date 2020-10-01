@@ -6,7 +6,7 @@ description: A simple how-to guide.
 
 ## Getting Started
 
-The primitive codebase is in a [monorepo](https://github.com/primitivefinance/primitive-protocol). Each package is under @primitivefi.
+The contract code base is [here](https://github.com/primitivefinance/primitive-contracts). Each npm package is under @primitivefi.
 
 ```bash
 git clone https://github.com/primitivefinance/primitive-protocol.git
@@ -34,9 +34,9 @@ yarn test
 
 ## Tasks
 
-To be added.. Buidler tasks!
+To be added...
 
 ## Scripts
 
-To be added... Customized scripts.
+To be added...
 
