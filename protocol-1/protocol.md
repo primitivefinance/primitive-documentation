@@ -2,7 +2,7 @@
 description: Resources for protocol documentation.
 ---
 
-# Whitepaper
+# Protocol Spec
 
 ## Oracle-less Options v0.3.0
 

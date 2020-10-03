@@ -10,9 +10,9 @@
 * [Gas Usage](getting-started/gas-usage.md)
 * [Options](getting-started/options.md)
 
-## Whitepaper
+## Protocol Spec <a id="protocol-1"></a>
 
-* [Whitepaper](whitepaper/whitepaper.md)
+* [Protocol Spec](protocol-1/protocol.md)
 
 ## Protocol
 
