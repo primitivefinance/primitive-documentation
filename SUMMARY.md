@@ -1,26 +1,19 @@
 # Table of contents
 
-* [Primitive](README.md)
+* [What is Primitive?](README.md)
 
 ## Getting Started
 
-* [How It Works](getting-started/how-it-works.md)
-* [Protocol Dashboard](getting-started/protocol-dashboard.md)
-* [Flash Exercises and Loans](getting-started/flash-exercises-and-loans.md)
-* [Gas Usage](getting-started/gas-usage.md)
-* [Options](getting-started/options.md)
+* [What is Primitive?](getting-started/what-is-primitive.md)
 
-## Protocol Spec <a id="protocol-1"></a>
+## Primitive User Guides
 
-* [Protocol Spec](protocol-1/protocol.md)
+* [Liquidity Providers](primitive-user-guides/liquidity-providers/README.md)
+  * [Option Basics](primitive-user-guides/liquidity-providers/option-basics.md)
 
-## Protocol
+## Smart Contract Modules
 
-* [Overview](protocol/src.md)
-* [Option Module](protocol/option-module/README.md)
-  * [Primitives](protocol/option-module/1_primitives.md)
-  * [Extensions](protocol/option-module/extensions.md)
-  * [Applications](protocol/option-module/applications.md)
+* [Core Module](smart-contract-modules/core-module.md)
 
 ## Community
 

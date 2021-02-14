@@ -2,25 +2,13 @@
 description: A simple overview of the protocol.
 ---
 
-# Primitive
+# What is Primitive?
 
-Primitive is a decentralized protocol for options.
+**Primitive** is an options market protocol live on Ethereum mainnet.
 
-This page needs to be updated.
+Liquidity providers can earn yield on their DAI, ETH, or DeFi tokens through providing liquidity to the respective option markets. Yield is earned through trading fees generated on the supported AMMs \(Sushiswap\).
 
+Traders can swap their DAI, ETH, or DeFi tokens to the respective Primitive Options tokens, giving them leveraged exposure in either direction. Call options can be purchase for the underlying tokens \(ETH, DeFi tokens\) to gain upside exposure, while Put options can be purchased for Dai to get downside protection. 
 
-
-
-
-**What are the risks of using Primitive?**
-
-The smart contracts of the Primtive Protocol cannot be proven to be 100% secure, and thus any funds locked in the protocol have the potential to be lost entirely.
-
-### Resources
-
-Primitive's code is open-source and is accessible on [Github](https://github.com/primitivefinance).
-
-We actively discuss development on the Primitive protocol in the \#development channel in our [Discord](https://discord.gg/rzRwJ4K).
-
-[Go back to the Primitive homepage](https://primitive.finance).
+Option Writers can collateralize the options and sell them to earn upfront returns on their DAI, ETH, or DeFi tokens. When options expire, they release the remaining collateral held in the smart contract. In the case of an option expiring out-of-the-money, the initial collateral deposit would be released. In the case that an option is exercised, option writers are entitled to the be paid the strike price of the option \(in DAI for Calls and in underlying tokens for Puts\).
 
