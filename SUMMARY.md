@@ -13,6 +13,7 @@
 ## Traders
 
 * [What are Primitive Options?](traders/what-are-primitive-options.md)
+* [How are Primitive Options Priced?](traders/how-are-primitive-options-priced.md)
 * [Swapping to Option Tokens](traders/swapping-to-option-tokens.md)
 * [Exiting Option positions](traders/exiting-option-positions.md)
 * [Trader risks](traders/trader-risks.md)
