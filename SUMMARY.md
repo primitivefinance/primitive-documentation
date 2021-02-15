@@ -1,15 +1,21 @@
 # Table of contents
 
 * [What is Primitive?](README.md)
+* [Interface Overview](interface-overview.md)
 
-## Getting Started
+## Liquidity Providers
 
-* [What is Primitive?](getting-started/what-is-primitive.md)
+* [What are Option Pools?](liquidity-providers/liquidity-providers.md)
+* [Providing liquidity](liquidity-providers/providing-liquidity.md)
+* [Managing liquidity positions](liquidity-providers/managing-liquidity-positions.md)
+* [Liquidity Provider's risks](liquidity-providers/liquidity-providers-risks.md)
 
-## Primitive User Guides
+## Traders
 
-* [Liquidity Providers](primitive-user-guides/liquidity-providers/README.md)
-  * [Option Basics](primitive-user-guides/liquidity-providers/option-basics.md)
+* [What are Primitive Options?](traders/what-are-primitive-options.md)
+* [Swapping to Option Tokens](traders/swapping-to-option-tokens.md)
+* [Exiting Option positions](traders/exiting-option-positions.md)
+* [Trader risks](traders/trader-risks.md)
 
 ## Smart Contract Modules
 
