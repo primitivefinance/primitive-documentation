@@ -10,9 +10,9 @@ description: >-
 
 ![An option pool overview.](../.gitbook/assets/what-are-option-pools_.png)
 
-Option pools are a pool with any amount of assets, where at least one of those assets is a derivative of another asset in the pool. Derivative's have their value determined by their underlying asset, which introduces new mechanics when they exist as a pair of assets in a pool. Primitive option pools use the **Short Option Token** as the derivative token.
+Option pools are a pool with any amount of assets, where at least one of those assets is a derivative of another asset in the pool. Derivative's are valued as a function of the underlying asset value, which introduces new mechanics when they exist as a pair of assets in a pool. Primitive option pools use the **Short Option Token** as the derivative token.
 
-The first pools supported by Primitive are Uniswap and Sushiswap pools. These are two-asset pools which give an equal weight of 50% to each asset.
+The first pools supported by Primitive are constant product AMMs like Uniswap and Sushiswap. These are two-asset pools which give an equal weight of 50% to each asset.
 
 When assets are provided to the pool, 50% of the total value must be denominated in the underlying token, while the other 50% of total value must be in the derivative token.
 

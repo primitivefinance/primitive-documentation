@@ -6,6 +6,10 @@ description: A brief overview of Primitive options.
 
 The Primitive protocol can be used by anyone to deploy an **Option** smart contract. The **Option** contract controls the tokenization of long and short options, collateral management, and parameterization of terms. It also has the business logic to manage the minting, exercising, redemption, and closure of option tokens at a low-level. 
 
+![Minting Primitive Options.](../.gitbook/assets/mintingoptions.png)
+
+There are two tokens which represent a full Primitive Option: The long option token and short option token. The long option token can be burned along with the  strike asset payment to release the underlying collateral \(exercising\). The short option token is a bundled short option + collateral token, which has a claim on either the strike assets \(if exercised\) or the underlying assets \(if expired and not exercised\).
+
 ## FAQ
 
 ### Who deploys options? 
