@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What is Primitive?](README.md)
-* [Interface Overview](interface-overview.md)
+* [App Overview](app-overview.md)
 
 ## Liquidity Providers
 
